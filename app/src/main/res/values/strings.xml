@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="settings_result_panel_title">Results</string>
+    <string name="history_title">History</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_precision_title">Accuracy</string>
+    <string name="settings_vibration_title">Vibration</string>
+
+    <string-array name="result_panel_types">
+        <item>Results on the left</item>
+        <item>Results on the right</item>
+        <item>Hide</item>
+    </string-array>
+</resources>
